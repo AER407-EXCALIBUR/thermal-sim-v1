@@ -1,0 +1,6 @@
+{'electric_heaters': False, 'rhus': False, 'radiators': False, 'paint': False, 'insulation': False, 'active_cooling': True, 'electronics_active': False, 'louvers': True}
+
+Avg Innate Power Draw: 30.00 W
+Avg Heater Power Draw: 0.00 W
+Avg Incoming Radiative Power: 94091.99 W
+Avg Rejected Radiative Power: -104541.72 W
