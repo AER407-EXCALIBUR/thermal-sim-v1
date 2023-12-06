@@ -1,2 +1,10 @@
-# thermal-sim-v1
-First version of spacecraft thermal sims
+# EXCALIBUR Thermal Sim
+
+# Requirements
+* Python 3.x (recent version)
+* `numpy`
+* `scipy`
+* `matplotlib`
+
+# Running
+Run `simulator.py`
